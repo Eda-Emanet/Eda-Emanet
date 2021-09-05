@@ -11,3 +11,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning NLP
 - 📫 How to reach me: eddemanet@gmail.com
 
+
+
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
