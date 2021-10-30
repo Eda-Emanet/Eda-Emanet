@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 ### - 🌱 I’m currently learning NLP
 ### - 📫 How to reach me: eddemanet@gmail.com
 
-[!](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white/)
+![image]({https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white/})
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source-200x33.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 
